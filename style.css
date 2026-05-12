@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(158, 182, 158);
+    color: rgb(31, 31, 29);
+    text-align: center;
+}
+#HH{
+    color: red;
+    font-size: 30px;
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: 50px;
+}
+#intr{
+    color: rgb(48, 9, 120);
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: 50px;
+}
+#pro{
+    color: rgb(49, 44, 133);
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: 50px;
+}
+#est{
+    color: rgb(48, 9, 120);
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: 50px;
+}
+#ev{
+    color: aqua;
+    background-color: brown;
+    font-weight: bold;
+}
+#ser{
+    color: blue;
+    background-color: rgb(140, 165, 42);
+    font-weight: bold;
+}
+#meth{
+     color: rgb(0, 255, 81);
+    background-color: rgb(140, 165, 42);
+    font-weight: bold; 
+}
+#ref{
+     color: rgb(48, 9, 120);
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: 50px;
+}
+p{
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    border: 50%;
+}
+dl{
+    background-color: rgb(0, 139, 127);
+    font-size: 20px;
+}
+dd{
+    color: brown;
+    font-weight: bold;
+}
